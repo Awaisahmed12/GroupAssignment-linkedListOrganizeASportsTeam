@@ -1,0 +1,6 @@
+Thiago Silva, 2, Defender
+Marquinhos, 5, Defender
+Alphonse Areola, 16, Goalkeeper
+Neymar, 10, Forward
+Edinson Cavani, 9, Forward
+Marco Verratti, 6, Midfielder
